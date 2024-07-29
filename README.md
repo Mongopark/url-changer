@@ -1,6 +1,6 @@
-# link-shortener
+# url-shortener
 
-The dashboard for zynopay app
+A url Changing app
 
 
 
