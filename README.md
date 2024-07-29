@@ -1,4 +1,4 @@
-# url-shortener
+# url-changer
 
 A url Changing app
 
@@ -39,4 +39,4 @@ npm run build
 npm run build --report
 ```
 
-# link-shortener
+# url-changer
