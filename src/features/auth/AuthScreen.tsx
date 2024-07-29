@@ -27,7 +27,7 @@ export default function AuthScreen() {
   return (
     <main className="flex items-center justify-center min-h-screen bg-gray-100">
       <div className="flex items-center justify-center min-h-screen w-full">
-        <div className="md:w-[30%] w-[90%] rounded-[10px] md:px-0 mx-auto bg-white">
+        <div className="lg:w-[30%] md:w-[50%] w-[90%] rounded-[10px] md:px-0 mx-auto bg-white">
           <div className="w-full">
             {showRegister ? (
               <LoginUser toggleRegister={toggleRegister} />
